@@ -3,7 +3,7 @@
 Урок #22 - Создаем веб-калькулятор
 
 Ссылка на видео-урок
-https://youtu.be/tZsgRYh9Y_4)https://youtu.be/tZsgRYh9Y_4
+https://www.youtube.com/watch?v=tZsgRYh9Y_4
 
 Курс создан компанией Neuro Lab! Algorithms
 https://nl-a.ru/
